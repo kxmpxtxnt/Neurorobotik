@@ -1,0 +1,5 @@
+{
+    "tinymist.formatterMode": "typstyle",
+    "tinymist.exportPdf": "onSave",
+    "tinymist.projectResolution": "lockDatabase"
+  }
